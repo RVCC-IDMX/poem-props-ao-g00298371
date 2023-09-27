@@ -2,10 +2,10 @@
 
 ### Alex O'Neill
 
-Poem was written by Marianne Moore.
+Poem was written by Marianne Moore:
 [A Jelly-Fish](https://poets.org/poem/jelly-fish)
 
-Image was taken by Nikolay Kovalenko.
+Image was taken by Nikolay Kovalenko:
 [Jellyfish Picture](https://unsplash.com/photos/i8QdtA3dcNc)
 
 # IDMX 11ty Sass Starter
