@@ -1,3 +1,13 @@
+# Jelly-Fish Poem
+
+### Alex O'Neill
+
+Poem was written by Marianne Moore.
+[A Jelly-Fish](https://poets.org/poem/jelly-fish)
+
+Image was taken by Nikolay Kovalenko.
+[Jellyfish Picture](https://unsplash.com/photos/i8QdtA3dcNc)
+
 # IDMX 11ty Sass Starter
 
 The set of development scripts in this starter is configured to watch and compile a simple Sass structure using 11ty.
