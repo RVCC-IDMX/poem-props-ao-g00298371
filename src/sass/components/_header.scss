@@ -24,12 +24,14 @@
 
 body {
     background-color: rgb(8, 22, 29);
-    // text-align: center;
+    text-align: center;
     // display: flex;
     // flex-direction: column;
     // justify-content: center;
     // align-items: center;
     margin-inline: auto;
+    display: grid;
+    justify-content: center;
 }
 
 h1 {
@@ -80,6 +82,11 @@ img {
     }
 }
 
+.poeminfo {
+    display: grid;
+    justify-content: center;
+}
+
 .poeminfo h1 {
     font-size: 5em;
     padding-top: 1rem;
@@ -122,4 +129,6 @@ img {
     padding: 1em;
     border-right: 10em;
     border-left: 10em;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
 }
